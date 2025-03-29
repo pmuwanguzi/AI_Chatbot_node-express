@@ -1,6 +1,10 @@
 # AI_Chatbot_node-express
 This is a chatbot that is using Deepseek AI , through the Openrouter API.
 
+The video instructions:
+# https://youtu.be/Sa6W5m8aPjE
+
+
 #How to Run it:
 
 1- Clone the repo in your prefered location.
@@ -21,3 +25,4 @@ This is a chatbot that is using Deepseek AI , through the Openrouter API.
 3- You should be presented with the response to your query. 
 4- Incase you're getting an error, it simply means that you either don't have an api key added correctly to your variables amongst other errors.
 5- Enjoy
+
